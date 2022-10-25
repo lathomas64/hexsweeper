@@ -1,5 +1,5 @@
 # hexsweeper
+to run
 
-python game.py to run the game
-
-requires Ursina
+windows > play.sh
+mac > ./play.sh
